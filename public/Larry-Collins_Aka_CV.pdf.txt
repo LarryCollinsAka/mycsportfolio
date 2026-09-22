@@ -1,0 +1,174 @@
+LATEH LARRY-COLLINS AKA
+Yaoundé, Cameroon| +237 681 37 15 99 | clatehlarry@gmail.com
+LinkedIn: linkedin.com/in/lateh-larry-collins-aka-58505a42/| GitHub: LarryCollinsAka
+Languages: English & French
+PROFESSIONAL SUMMARY
+Customer-focused professional with 6+ years of experience across customer service, technical support, client 
+support, software development, and business operations. Experienced in high-volume customer interactions, 
+troubleshooting, issue resolution, documentation, escalation, and follow-up through resolution.
+Handled 80+ customer interactions per shift through live chat, email, WhatsApp, Facebook, and Instagram, 
+reducing average resolution time from 25 minutes to 8 minutes while maintaining 90%+ CSAT. Strong 
+technical background in web applications, APIs, databases, testing, and business systems. Bilingual in English 
+and French.
+CUSTOMER SUPPORT COMPETENCIES
+• Customer Service & Customer 
+Care
+• Live Chat & Omnichannel 
+Support
+• Email & Phone Support
+• Complaint Handling & Service 
+Recovery
+• Ticket / Case Management • Customer Account Support
+• Technical Troubleshooting • Root-Cause Analysis • Incident & Escalation 
+Management
+• SLA / Response-Time 
+Awareness
+• Customer Follow-up • Knowledge Base / FAQ 
+Development
+• Cross-functional Collaboration • Customer Experience 
+Improvement
+• KPI Monitoring & Reporting
+CUSTOMER SUPPORT TECHNOLOGY ECOSYSTEM
+Helpdesk / Customer Messaging Zendesk, Intercom, Freshdesk, Help Scout, Zoho 
+Desk
+CRM / Customer Management Salesforce, HubSpot CRM, Zoho CRM
+Communication / Collaboration Slack, Discord, Microsoft Teams, Google 
+Workspace, Zoom
+Knowledge Base / Documentation Notion, Google Docs, Microsoft Word, Excel
+Issue Tracking / Technical Support Jira, GitHub, Postman, Browser DevTools, SQL
+
+Support KPIs CSAT, NPS, First Response Time, Average 
+Resolution Time, First Contact Resolution, Ticket 
+Volume, SLA Compliance, Escalation Rate
+TOOLS & TECHNICAL TECHNOLOGIES
+Business / Productivity: Microsoft Office Suite, Excel, Word, PowerPoint, Access, Asana
+Development: Visual Studio Code, Flutter, PHP, Laravel, JavaScript, TypeScript, Java, C/C++, React, NextJS
+Operating Systems: Windows, Linux and MacOs
+Databases: PostgreSQL, MySQL, MongoDB
+Technical Platforms: REST APIs, Git, Docker, AWS, Azure
+E-commerce / Payments: Shopify, PayPal, Stripe, MTN Mobile Money, Orange Money
+PROFESSIONAL EXPERIENCE
+Lead Software Engineer | June 2024 – Present
+Fortune Techies — Yaoundé, Cameroon
+• Support web application delivery by coordinating customer/user requirements, testing, technical issues, 
+priorities, and stakeholder communication.
+• Translate user and business needs into clear technical tasks for development teams.
+• Investigate technical problems and communicate issues and solutions to technical and non-technical 
+stakeholders.
+• Created test plans, scripts, and processes that removed 40% of identified redundancy.
+• Built reusable software components used across 3 projects, reducing development effort by 50%.
+• Developed a database-testing application that improved testing efficiency by 65%.
+Tools / channels: Jira / issue tracking concepts, Git, databases, REST APIs, testing tools, Microsoft Office
+Business Consultant & Analyst | August 2024 – February 2026
+Millennium Challenge Account (MCA) – Cameroon — Yaoundé
+• Worked directly with stakeholders to understand needs, clarify requirements, and resolve issues relating to 
+digital systems.
+• Facilitated workshops and interviews with technical and non-technical users.
+• Translated stakeholder feedback into actionable information for developers and IT teams.
+
+• Maintained documentation covering requirements, decisions, risks, and follow-up actions.
+• Designed and implemented KPI dashboards to improve monitoring and reporting.
+• Evaluated vendor solutions against organizational requirements and compliance standards.
+Tools / channels: KPI dashboards, reporting, Microsoft Office, documentation, stakeholder workshops
+Software Developer | October 2022 – February 2024
+GEO EXPERTS ET ASSOSIES — Yaoundé, Cameroon
+• Investigated and resolved 10+ technical issues using root-cause analysis.
+• Delivered production fixes within 24 hours.
+• Improved system and business processes, reducing turnaround time by 20%.
+• Developed configuration-management tools that reduced initial machine setup effort by 25%.
+• Improved reporting-system accuracy by 4%.
+• Worked with users and technical teams to understand problems and implement solutions.
+Tools / channels: PHP, Laravel, JavaScript, databases, Git, testing/debugging tools
+Customer Experience Lead & Support Specialist | 2019 – 2021
+K-Empire Night Club — Yaoundé, Cameroon
+• Handled 80+ customer interactions per shift across live chat, email, WhatsApp, Facebook, and Instagram.
+• Assisted customers with VIP membership accounts, event bookings, table reservations, promotions, and 
+general service questions.
+• Owned customer issues from initial contact through resolution and escalated complex issues with complete 
+context.
+• Reduced average resolution time from 25 minutes to 8 minutes through better triage and proactive 
+communication.
+• Maintained 90%+ CSAT during high-volume customer periods and improved NPS from 32 to 58.
+• Developed FAQs and 20+ standard response templates, reducing repetitive inquiries by 35%.
+• Maintained daily records of conversations, issues, resolutions, and follow-ups.
+• Used AI tools to improve response quality and speed, achieving approximately 40% improvement in 
+response time.
+Tools / channels: Live chat, email, WhatsApp, Facebook, Instagram, AI tools, FAQ/response templates, 
+customer records
+
+Customer Support & Account Manager | 2018 – 2023
+Wood & Electric Poles Manufacturing Company (CAMITEX) — Yaoundé
+• Supported B2B customers with queries, complaints, orders, modifications, and escalations.
+• Assisted customers with account, inventory, delivery, pricing, and product-specification questions.
+• Maintained customer records and tracked open issues and follow-ups using Excel.
+• Worked with operations and leadership teams to resolve customer problems.
+• Communicated recurring customer concerns and feedback to internal teams.
+• Followed customer requests from initial contact through resolution.
+Tools / channels: Microsoft Excel, customer records, inventory information, delivery/order tracking
+Customer Service / Retail Support (Part-Time) | September 2022 – January 2024
+DoVV Supermarket — Yaoundé, Cameroon
+• Assisted customers in finding the appropriate aisle/section (rayon) based on their needs and product 
+requirements.
+• Handled inbound customer calls for pickup and delivery orders.
+• Assisted customers with faster checkout processes to help reduce waiting time and avoid long cashier 
+queues.
+• Monitored stock levels across assigned sections to help ensure products remained available to customers.
+• Responded to customer questions and provided guidance on product availability and store services.
+• Worked with store staff to support efficient customer service and daily operations.
+Tools / channels: Inbound telephone calls, checkout process, stock/availability records, pickup and delivery 
+coordination
+Customer Service / Restaurant Support (Part-Time) | September 2019 – March 2021
+Kerns Restaurant — Buea, Cameroon
+• Handled customer complaints and concerns regarding meals and worked to provide appropriate solutions.
+• Managed customer reservations and helped coordinate bookings.
+• Handled customer requests for food delivery and communicated order requirements.
+• Responded to customer questions regarding food and stock availability.
+• Communicated with customers to clarify requests and ensure accurate service.
+• Worked with restaurant staff to coordinate customer requests, reservations, orders, and availability.
+Tools / channels: Customer calls, reservation records, delivery/order records, stock/availability records
+
+Software Developer | January 2023 – March 2023
+IBMGIM — Yaoundé, Cameroon
+• Worked on MTN Mobile Money and Orange Money payment gateway functionality.
+• Supported improvements to customer payment processing and cash-flow processes.
+• Collaborated with the product team to improve invoice-processing workflows.
+• Mentored 3 junior developers and documented technical best practices.
+Tools / channels: MTN Mobile Money, Orange Money, APIs, documentation
+Web Development Trainer | November 2022 – September 2024
+Mountain Tech Academy — Buea, Cameroon
+• Provided technical guidance to learners with different levels of technical knowledge.
+• Explained complex technical concepts using clear and accessible language.
+• Helped learners troubleshoot development problems.
+• Created structured learning materials and practical guidance.
+Tools / channels: Web development tools, documentation, training materials, troubleshooting
+Full Stack Developer | August 2018 – April 2019
+e-pocrate — Remote, France
+• Built an online medical application and supporting backend architecture.
+• Developed user-facing functionality and backend services.
+• Integrated PayPal and Stripe payment services.
+• Worked with developers in Senegal on a RESTful payment API.
+• Integrated Jitsi audio/video functionality.
+Tools / channels: PayPal, Stripe, REST APIs, Jitsi, web development stack
+EDUCATION
+M.Sc. Computer Science — University of Buea | 2022
+B.Sc. Computer Science — University of Yaoundé I | 2017
+B.Sc. Economics — University of Yaoundé II | 2018
+PROFESSIONAL DEVELOPMENT
+SAP Business Analyst Professional Certificate — MTN Career Academy / Coursera | 2026
+
+IBM Data Analyst Professional Certificate — IBM Skills Network / Coursera | 2025
+IBM Full Stack Developer Professional Certificate — IBM Skills Network / Coursera | 2025
+Google Advanced Data Analyst Professional Certificate — Coursera | 2025
+MITx Certificate in Applied Economics — MITx | 2026
+
+[PDF page 1 image attached. Read this image directly to extract content.]
+
+[PDF page 2 image attached. Read this image directly to extract content.]
+
+[PDF page 3 image attached. Read this image directly to extract content.]
+
+[PDF page 4 image attached. Read this image directly to extract content.]
+
+[PDF page 5 image attached. Read this image directly to extract content.]
+
+[PDF page 6 image attached. Read this image directly to extract content.]
